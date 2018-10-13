@@ -1,11 +1,11 @@
 <Database>
-    <GameDBStringTable ID="LOC_EN_CHARACTERS">
+    <GameDBStringTable ID="LOC_RO_CHARACTERS">
         
-        <LanguageCode>en</LanguageCode>
-        <LanguageNameLocalized>English</LanguageNameLocalized>
+        <LanguageCode>ro</LanguageCode>
+        <LanguageNameLocalized>Română</LanguageNameLocalized>
 
         <Contributors>
-            <Name>Oxymoron Games</Name>
+            <Name>Nicolae Dăscăliţa</Name>
         </Contributors>
         
     	<LocalizedStrings>
