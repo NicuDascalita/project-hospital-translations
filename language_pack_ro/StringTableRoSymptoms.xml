@@ -1,7 +1,7 @@
 ﻿<Database>
     <GameDBStringTable ID="LOC_RO_SYMPTOMS">
         
-        <LanguageCode>en</LanguageCode>
+        <LanguageCode>ro</LanguageCode>
         <LanguageNameLocalized>Română</LanguageNameLocalized>
 
         <Contributors>
